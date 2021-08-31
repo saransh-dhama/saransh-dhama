@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saransh Dhama</h1>
-<p align="center">I am from India now working and living in Berlin. I have M.Sc. in Computer Science from Budapest University of Technology and Economics (BME). Before getting here, I am a front-end developer and I love my work !!!</p>
+<p align="center">I am from India now working and living in Berlin. I have M.Sc. in Computer Science from Budapest University of Technology and Economics (BME). I am a front-end developer and I love my work !!!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh-dhama" alt="saransh-dhama" /> </p>
 
